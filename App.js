@@ -3,10 +3,10 @@ import { Provider } from "react-redux";
 import { PaperProvider } from 'react-native-paper';
 import { store } from "./redux/store";
 import { StripeProvider } from "@stripe/stripe-react-native";
+import Constants from "expo-constants";
 
-//Erase or Hide your key before deploying to GitHub
+const stripeKey = Constants.manifest.extra.STRIPE_API_KEY;
 
-const stripeKey = "ADD YOUR STRIPE PUBLISHABLE A.P.I KEY PROVIDED BY STRIPE";
 
 export default function App() {
   return (
@@ -15,7 +15,7 @@ export default function App() {
         backgroundColor: "#fff",
         timeout: 5,
       }}
-      merchantIdentifier="ian-kaire"
+      merchantIdentifier="INSERT A RANDOM IDENTIFIER"
       publishableKey={stripeKey}
     >
       <Provider store={store}>

@@ -9,6 +9,8 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 *.txt
+*.env
+eas.json
 web-build/
 
 # macOS
