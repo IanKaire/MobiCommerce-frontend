@@ -1,7 +1,7 @@
 
 # MobiCommerce-frontend
-The frontend logic for MobiCommerce, React Native e-commerce app, for a mobile platform. A mobile e-commerce application designed to provide users with an easy and convenient shopping
-experience.
+The frontend logic for MobiCommerce, React Native e-commerce app, for a mobile platform. A mobile e-commerce application designed to provide users with an easy user experience for convenient shopping.
+
 It offers two user profiles: normal users and administrators, each with its own set of features and capabilities.
 
 Normal User Features:
