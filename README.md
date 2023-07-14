@@ -23,32 +23,37 @@ Administrator Dashboard Features:
 ![ProductCategories](https://github.com/IanKaire/MobiCommerce-frontend/assets/114652346/713744e3-731c-4c2f-a279-16a87367aad2)
 ![NewProduct](https://github.com/IanKaire/MobiCommerce-frontend/assets/114652346/68f7f3bf-6bc3-409d-a21a-946c76b2feab)
 
+# SignUp Screens
+![SignUp](https://github.com/IanKaire/MobiCommerce-frontend/assets/114652346/19fae1f0-8819-413a-b5e6-9a17e985c9bc)
+![SignUpComplete](https://github.com/IanKaire/MobiCommerce-frontend/assets/114652346/dd0299fe-4837-4124-a363-cba0d9fb659e)
+
+# User Profile Screens
+![UserProfile](https://github.com/IanKaire/MobiCommerce-frontend/assets/114652346/a48feb91-28a4-4c89-a559-c01f5544597b)
+![UserProfileComplete](https://github.com/IanKaire/MobiCommerce-frontend/assets/114652346/c4608b88-3a9c-4307-8006-6a17f5558ffd)
 
 # Password Screens
 ![ChangePassword](https://github.com/IanKaire/MobiCommerce-frontend/assets/114652346/861495c5-578b-46dd-970c-7c4886becbb8)
 ![ForgetPassword](https://github.com/IanKaire/MobiCommerce-frontend/assets/114652346/9aab1a9f-8052-4550-92fa-f9c20d1116f0)
-
 
 # Products Screens
 ![ProductFootwear](https://github.com/IanKaire/MobiCommerce-frontend/assets/114652346/559ce9ee-3f5e-4c22-a741-aa55509ac8b1)
 ![ProductPhone](https://github.com/IanKaire/MobiCommerce-frontend/assets/114652346/96dcfcc2-77ea-45c1-9ff6-5f16a947b6f4)
 ![ProductTelevision](https://github.com/IanKaire/MobiCommerce-frontend/assets/114652346/7cece423-019d-4559-b917-d473aaf34cbd)
 
-
 # Product Details Screens
 ![ProductMacbookDetails](https://github.com/IanKaire/MobiCommerce-frontend/assets/114652346/a7ddf55a-6794-4de5-8862-cceff5ae3a53)
 ![ProductFootwearDetails](https://github.com/IanKaire/MobiCommerce-frontend/assets/114652346/bf5d2386-2b71-4fb3-8d82-852b2c61e34c)
-
 
 # Orders Screens
 ![OrdersScreen](https://github.com/IanKaire/MobiCommerce-frontend/assets/114652346/699798b0-1328-4d08-be10-49cbfa5b78a6)
 ![OrderSuccessMessage](https://github.com/IanKaire/MobiCommerce-frontend/assets/114652346/c0470206-df2f-421c-999a-e1da7430d0cc)
 
-
 # Payment Screens
 ![PaymentMethods](https://github.com/IanKaire/MobiCommerce-frontend/assets/114652346/cdf74ac3-dd21-406e-84ea-4968daf02ce9)
 ![PaymentStripe](https://github.com/IanKaire/MobiCommerce-frontend/assets/114652346/9707a8dc-2c1f-4f33-9c1c-51b66c7b806d)
 
+# Shopping Cart 
+![ShoppingCart](https://github.com/IanKaire/MobiCommerce-frontend/assets/114652346/6b2647bc-6c57-43bb-aa86-e4294c88a1f8)
 
 # Payment Confirmation from MongoDB and Stripe
 ![mongodb_payment_completion](https://github.com/IanKaire/MobiCommerce-frontend/assets/114652346/98cd2dc9-7f13-4840-86d4-33553edc4f70)
